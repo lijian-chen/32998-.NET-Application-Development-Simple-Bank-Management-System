@@ -1,0 +1,12 @@
+First Name|Andrew
+Last Name|Bill
+Address|15 Broadway, Ultimo NSW 2007
+Phone|0410100100
+Email|lc.32998dotnetappdev@outlook.com
+AccountNo|10000001
+Balance|2633.1
+21/09/2020 5:11:42 AM|Deposit|399.9|2199.9
+21/09/2020 5:13:13 AM|Withdraw|99.9|2100
+21/09/2020 5:13:41 AM|Deposit|300|2400
+21/09/2020 5:13:49 AM|Deposit|600|3000
+21/09/2020 5:16:03 AM|Withdraw|366.9|2633.1

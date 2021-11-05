@@ -1,0 +1,12 @@
+First Name|Lijian
+Last Name|Chen
+Address|81-113 Broadway, Ultimo NSW 2007
+Phone|0400000000
+Email|lc.32998dotnetappdev@outlook.com
+AccountNo|10000000
+Balance|1800
+19/09/2020 1:29:13 AM|Deposit|200|300
+19/09/2020 1:29:20 AM|Deposit|300|600
+19/09/2020 1:29:56 AM|Deposit|900|1500
+19/09/2020 1:30:24 AM|Withdraw|300|1200
+19/09/2020 1:30:45 AM|Deposit|600|1800

@@ -1,0 +1,12 @@
+First Name|Calvin
+Last Name|Dickson
+Address|14/28 Ultimo Rd, Ultimo NSW 2007
+Phone|0420200200
+Email|lc.32998dotnetappdev@outlook.com
+AccountNo|10000002
+Balance|3330.33
+21/09/2020 10:34:08 PM|Deposit|600|1800
+21/09/2020 10:34:26 PM|Deposit|1500|3300
+21/09/2020 10:35:02 PM|Deposit|666.66|3966.66
+21/09/2020 10:35:47 PM|Withdraw|306|3660.66
+21/09/2020 10:36:16 PM|Withdraw|330.33|3330.33
